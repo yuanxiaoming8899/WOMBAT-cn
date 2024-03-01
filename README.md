@@ -22,7 +22,7 @@
       <span class="pl-s">month</span> = <span class="pl-s"><span class="pl-pds">{</span>10<span class="pl-pds">}</span></span>,
       <span class="pl-s">institution</span> = <span class="pl-s"><span class="pl-pds">{</span>National Renewable Energy Lab. (NREL)<span class="pl-pds">}</span></span>,
    }</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="   @techreport{hammond2022wombat,
+    
       title = {Windfarm Operations and Maintenance cost-Benefit Analysis Tool (WOMBAT)},
       author = {Hammond, Rob and Cooperman, Aubryn},
       abstractNote = {This report provides technical documentation and background on the newly-developed Wind Operations and Maintenance cost-Benefit Analysis Tool (WOMBAT) software. WOMBAT is an open-source model that can be used to obtain cost estimates for operations and maintenance of land-based or offshore wind power plants. The software was designed to be flexible and modular to allow for implementation of new strategies and technological innovations for wind plant maintenance. WOMBAT uses a process-based simulation approach to model day-to-day operations, repairs, and weather conditions. High-level outputs from WOMBAT, including time-based availability and annual operating costs, are found to agree with published results from other models.},
