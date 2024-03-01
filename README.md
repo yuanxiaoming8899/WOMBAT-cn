@@ -72,8 +72,7 @@
 
 # <span class="pl-s1">Then install whichever additional dependencies are required/desired</span>
 <span class="pl-c1">pip install -e '.[dev]'  # '.[docs]' or '.[all]'</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Enter the source code directory
-cd wombat/
+   
 
 # First install the base package requirements
 pip install -e .
@@ -103,9 +102,7 @@ pip install -e '.[dev]'  # '.[docs]' or '.[all]'" tabindex="0" role="button">
 
 # <span class="pl-s1">to deactivate</span>
 <span class="pl-c1">conda deactivate</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="conda create -n <environment_name> python=3.8 --no-default-packages
-conda activate <environment_name>
-conda install -c anaconda pip
+  
 
 # activate the environment
 conda activate <environment_name>
